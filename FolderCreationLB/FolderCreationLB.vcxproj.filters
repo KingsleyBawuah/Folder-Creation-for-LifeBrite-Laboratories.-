@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\Coding\Code\Folder Creation for LifeBrite\Folder_creation.cpp">
+    <ClCompile Include="Folder_creation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
